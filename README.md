@@ -2,6 +2,15 @@
 Error: Node Sass version 5.0.0 is incompatible with ^4.0.0.
 yarn add node-sass@4.14.1
 
+# Firebase
+yarn add firebase@6.0.2
+
+# Firebase conflict
+npm rebuild node-sass
+
+# package.json
+    "resolutions": {
+    "babel-jest": "26.6.0"
 
 # Getting Started with Create React App
 
