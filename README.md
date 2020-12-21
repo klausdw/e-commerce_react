@@ -1,3 +1,7 @@
+# Sass
+Error: Node Sass version 5.0.0 is incompatible with ^4.0.0.
+yarn add node-sass@4.14.1
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
