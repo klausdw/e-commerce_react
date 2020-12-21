@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 import { ReactComponent as Logo } from '../../assets/crown.svg';
 
-import './header.style.scss';
+import './header.styles.scss';
 
 const Header = () => (
     <div className='header'>
