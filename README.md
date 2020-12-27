@@ -12,6 +12,9 @@ npm rebuild node-sass
     "resolutions": {
     "babel-jest": "26.6.0"
 
+# Redux
+yarn add redux redux-logger react-redux
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
