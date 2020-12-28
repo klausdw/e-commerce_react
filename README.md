@@ -18,6 +18,9 @@ yarn add redux redux-logger react-redux
 # Reselect
 yarn add reselect
 
+# Redux persist
+yarn add redux-persist
+
 
 
 
