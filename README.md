@@ -15,6 +15,13 @@ npm rebuild node-sass
 # Redux
 yarn add redux redux-logger react-redux
 
+# Reselect
+yarn add reselect
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
