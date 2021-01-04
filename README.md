@@ -21,6 +21,11 @@ yarn add reselect
 # Redux persist
 yarn add redux-persist
 
+# React Stripe
+yarn add react-stripe-checkout
+
+
+
 
 
 
