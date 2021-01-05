@@ -27,7 +27,8 @@ yarn add redux-persist
 # React Stripe
 yarn add react-stripe-checkout
 
-
+# Syled-Components
+yarn add styled-components
 
 
 
